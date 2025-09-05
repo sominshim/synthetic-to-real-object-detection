@@ -1,4 +1,4 @@
-# Synthetic to Real Object Detection Challenge
+# Synthetic to Real Object Detection
 
 [Kaggle Synthetic to Real Object Detection Challenge](https://www.kaggle.com/competitions/synthetic-2-real-object-detection-challenge) —  
 YOLOv8 + CycleGAN 기반 실험으로 **mAP 11.5%p 개선, Public Score 0.9529 달성**
@@ -35,6 +35,3 @@ YOLOv8 + CycleGAN 기반 실험으로 **mAP 11.5%p 개선, Public Score 0.9529 �
 ![실험결과 이미지](img/results.png) 
 
 ---
-
-## 📈 성과 (Result)
-- Baseline YOLOv8: **mAP@0.5 = 0.9**
